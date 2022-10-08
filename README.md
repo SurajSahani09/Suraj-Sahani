@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Full Stack Python**
 
-- 💬 Ask me about **Android,ML**
+- 💬 Ask me about **Android,ML,Pyhton**
 
 - 📫 How to reach me **surajsahani909090@gmail.com**
 
